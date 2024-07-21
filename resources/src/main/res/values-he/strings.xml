@@ -264,7 +264,7 @@
     <string name="settings_start_of_day">Shift start of the day</string>
     <string name="settings_start_of_day_hint">Start of day will be shifted by the specified amount of time, forward or backward depending on the sign.</string>
     <string name="settings_start_of_day_hint_value">Today starts at %s</string>
-    <string name="settings_inactivity_reminder">Show inactivity reminder</string>
+    <string name="settings_inactivity_reminder">הצגת תזכורת חוסר פעילות</string>
     <string name="settings_inactivity_reminder_hint">Show notification after specified time if no timers are running.</string>
     <string name="settings_inactivity_reminder_recurrent">Recurrent</string>
     <string name="settings_activity_reminder">Show activity reminder</string>
@@ -292,12 +292,12 @@
     <string name="settings_show_record_tag_selection">Show record tag selection</string>
     <string name="settings_show_record_tag_selection_hint">When starting a timer, if activity has any record tags - a selection dialog will be shown.</string>
     <string name="settings_show_record_tag_close_hint">Close after selecting one tag</string>
-    <string name="settings_rate">Rate us</string>
+    <string name="settings_rate">דרגו אותנו</string>
     <string name="settings_rate_description">Rate the app and leave a review.</string>
-    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback">משוב</string>
     <string name="settings_feedback_description">Have a suggestion? Found a bug? Want to talk? Write us!</string>
     <string name="settings_version">גרסה</string>
-    <string name="settings_email_chooser_title">Send with…</string>
+    <string name="settings_email_chooser_title">שליחה באמצעות…</string>
     <string name="settings_translators">מתרגמים</string>
     <string name="settings_contributors">תורמים אחרים</string>
     <string name="settings_automated_tracking">Automated tracking</string>
@@ -392,8 +392,8 @@ Example:<br/>
     <string name="statistics_detail_length_ten">10</string>
     <string name="statistics_detail_length_fifty">50</string>
     <string name="statistics_detail_length_hundred">100</string>
-    <string name="statistics_detail_legend_minute_suffix">m</string>
-    <string name="statistics_detail_legend_hour_suffix">h</string>
+    <string name="statistics_detail_legend_minute_suffix">דק׳</string>
+    <string name="statistics_detail_legend_hour_suffix">שע׳</string>
 
     <string name="statistics_detail_range_averages_title">Average for period: %s</string>
     <string name="statistics_detail_range_averages">For the whole range</string>
@@ -436,8 +436,8 @@ Example:<br/>
     <string name="widget_name">Single Activity</string>
     <string name="widget_universal_name">Universal</string>
     <string name="widget_statistics_chart_name">Statistics Chart</string>
-    <string name="widget_quick_settings_name">Quick settings</string>
-    <string name="widget_load_error">Not found</string>
+    <string name="widget_quick_settings_name">הגדרות מהירות</string>
+    <string name="widget_load_error">לא נמצא</string>
 
     <!--  Notification  -->
     <string name="notification_inactivity_title">תזכורת חוסר פעילות</string>
@@ -470,7 +470,7 @@ Example:<br/>
     <string name="data_edit_select_records">Select records</string>
     <string name="data_edit_change_activity">שינוי פעילות</string>
     <string name="data_edit_change_activity_hint">Tags of current activity will be removed.</string>
-    <string name="data_edit_change_comment">Change comment</string>
+    <string name="data_edit_change_comment">שינוי הערה</string>
     <string name="data_edit_change_add_tag">הוספת תגיות</string>
     <string name="data_edit_change_remove_tag">הסרת תגיות</string>
     <string name="data_edit_button_change">שינוי</string>
@@ -506,7 +506,7 @@ Example:<br/>
     <string name="imageGroupMaps">מפות</string>
     <string name="imageGroupPlaces">מקומות</string>
     <string name="imageGroupSocial">Social</string>
-    <string name="imageGroupAction">Action</string>
+    <string name="imageGroupAction">פעולה</string>
     <string name="imageGroupHardware">חומרת מחשב</string>
     <string name="imageGroupAlert">Alert</string>
     <string name="imageGroupAv">שמע ווידאו</string>
@@ -522,13 +522,13 @@ Example:<br/>
 
     <!--  Shortcuts  -->
     <string name="shortcut_navigation_records">Records</string>
-    <string name="shortcut_navigation_statistics">Statistics</string>
-    <string name="shortcut_navigation_settings">Settings</string>
+    <string name="shortcut_navigation_statistics">סטטיסטיקה</string>
+    <string name="shortcut_navigation_settings">הגדרות</string>
 
     <!--  Wear  -->
     <string name="wear_loading_error">נא לבדוק את החיבור ולנסות שוב</string>
     <string name="wear_open_on_phone">פתיחה בטלפון</string>
-    <string name="wear_settings_title">Settings</string>
-    <string name="wear_settings_title_show_compact_list">Show compact list</string>
+    <string name="wear_settings_title">הגדרות</string>
+    <string name="wear_settings_title_show_compact_list">הצגת רשימה מצומצמת</string>
 
 </resources>
