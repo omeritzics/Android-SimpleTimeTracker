@@ -55,12 +55,12 @@
     <string name="time_second">שנ׳</string>
 
     <string name="untracked_time_name">Untracked</string>
-    <string name="uncategorized_time_name">Uncategorized</string>
-    <string name="multitask_time_name">Multitask</string>
-    <string name="running_record_goal_time">goal %s</string>
-    <string name="record_types_empty">No activities added</string>
+    <string name="uncategorized_time_name">ללא קטגוריה</string>
+    <string name="multitask_time_name">ריבוי משימות</string>
+    <string name="running_record_goal_time">היעד %s</string>
+    <string name="record_types_empty">לא נוספו פעילויות</string>
     <string name="record_tag_selection_hint">Select record tag</string>
-    <string name="time_now">Now</string>
+    <string name="time_now">כעת</string>
     <string name="cannot_be_in_the_future">Time cannot be in the future</string>
 
     <!--  Records  -->
@@ -100,16 +100,16 @@
     <string name="change_record_tag_default_types_hint">Tag would be assigned by default when starting a timer with selected activities</string>
 
     <!--  Change record  -->
-    <string name="change_record_message_choose_type">Select activity</string>
-    <string name="change_record_type_field">Activity</string>
-    <string name="change_record_tag_field">Tag</string>
-    <string name="change_record_comment_field">Comment</string>
-    <string name="change_record_comment_hint">Enter new comment</string>
-    <string name="change_record_actions_hint">Actions</string>
+    <string name="change_record_message_choose_type">נא לבחור פעילות</string>
+    <string name="change_record_type_field">פעילות</string>
+    <string name="change_record_tag_field">תגית</string>
+    <string name="change_record_comment_field">הערה</string>
+    <string name="change_record_comment_hint">נא להזין הערה חדשה</string>
+    <string name="change_record_actions_hint">פעולות</string>
     <string name="change_record_last_comments_hint">Last comments</string>
     <string name="change_record_favourite_comments_hint">Favourite</string>
     <string name="change_record_categories_empty">No record tags added</string>
-    <string name="change_record_save">Save</string>
+    <string name="change_record_save">שמירה</string>
     <string name="change_record_untagged">Untagged</string>
     <string name="change_running_record_removed">Running activity removed</string>
     <string name="change_record_split">Divide</string>
@@ -125,8 +125,8 @@
     <string name="change_record_adjust">Change</string>
     <string name="change_record_change_prev_record">Also change time of previous record</string>
     <string name="change_record_change_adjacent_records">Also change time of adjacent records</string>
-    <string name="change_record_change_prev">Previous</string>
-    <string name="change_record_change_next">Next</string>
+    <string name="change_record_change_prev">הקודם</string>
+    <string name="change_record_change_next">הבא</string>
     <string name="change_record_change_overlapped">Overlapped</string>
     <string name="change_record_change_overlapped_hint">Records are completely overlapped and will be removed</string>
     <string name="change_record_untracked_time_hint">Untracked time is time when no activity was tracked.</string>
@@ -134,68 +134,68 @@
     <string name="change_record_next_not_found">Next record not found</string>
 
     <!--  Change record type  -->
-    <string name="change_record_type_archived">Activity archived</string>
-    <string name="change_record_type_name_hint">Enter new name</string>
-    <string name="change_record_type_new_icon_text_hint">Enter new text</string>
-    <string name="change_record_type_color_hint">Color</string>
-    <string name="change_record_type_icon_image_hint">Icon</string>
-    <string name="change_record_type_icon_text_hint">Text</string>
-    <string name="change_record_type_icon_emoji_hint">Emoji</string>
-    <string name="change_record_type_icon_search_hint">Search (in English)</string>
-    <string name="change_record_type_no_icon">No icon</string>
-    <string name="change_record_type_save">Save</string>
-    <string name="change_record_message_choose_name">Choose a name</string>
-    <string name="change_record_message_name_exist">Name already used</string>
-    <string name="change_record_type_categories_empty">No categories added</string>
+    <string name="change_record_type_archived">הפעילות הועברה לארכיון</string>
+    <string name="change_record_type_name_hint">נא להזין שם חדש</string>
+    <string name="change_record_type_new_icon_text_hint">נא להזין כיתוב חדש</string>
+    <string name="change_record_type_color_hint">צבע</string>
+    <string name="change_record_type_icon_image_hint">סמל</string>
+    <string name="change_record_type_icon_text_hint">כיתוב</string>
+    <string name="change_record_type_icon_emoji_hint">אימוג׳י</string>
+    <string name="change_record_type_icon_search_hint">חיפוש (בשפה האנגלית)</string>
+    <string name="change_record_type_no_icon">אין סמל</string>
+    <string name="change_record_type_save">שמירה</string>
+    <string name="change_record_message_choose_name">נא לבחור שם</string>
+    <string name="change_record_message_name_exist">כבר נעשה שימוש בשם זה</string>
+    <string name="change_record_type_categories_empty">לא נוספו קטגוריות</string>
     <string name="change_record_type_goal_time_disabled">Disabled</string>
-    <string name="change_record_type_goal_time_hint">Goal</string>
+    <string name="change_record_type_goal_time_hint">יעד</string>
     <string name="change_record_type_goal_time_description">Notification will be shown after reaching the goal</string>
-    <string name="change_record_type_session_goal_time">Session</string>
+    <string name="change_record_type_session_goal_time">סשן</string>
     <string name="change_record_type_daily_goal_time">@string/range_day</string>
     <string name="change_record_type_weekly_goal_time">@string/range_week</string>
     <string name="change_record_type_monthly_goal_time">@string/range_month</string>
-    <string name="change_record_type_goal_duration">Duration</string>
-    <string name="change_record_type_goal_count">Count</string>
+    <string name="change_record_type_goal_duration">משך זמן</string>
+    <string name="change_record_type_goal_count">מספר פעמים</string>
 
     <!--  Activity filters  -->
     <string name="change_activity_filter_removed">Filter removed</string>
-    <string name="change_activity_filter_save">Save</string>
+    <string name="change_activity_filter_save">שמירה</string>
     <string name="change_activity_filter_type">Filter type</string>
 
     <!--  Dialogs  -->
-    <string name="date_time_dialog_date">Date</string>
-    <string name="date_time_dialog_time">Time</string>
-    <string name="date_time_dialog_seconds">Seconds</string>
+    <string name="date_time_dialog_date">תאריך</string>
+    <string name="date_time_dialog_time">שעה</string>
+    <string name="date_time_dialog_seconds">שניות</string>
 
-    <string name="card_size_default">Default width</string>
+    <string name="card_size_default">רוחב ברירת מחדל</string>
     <string name="card_size_hint">Number of cards in a row</string>
 
     <string name="card_order_hint">Drag and drop to reorder</string>
 
     <string name="chart_filter_hint">Filter</string>
     <string name="types_compare_hint">Comparison</string>
-    <string name="types_filter_show_all">Show all</string>
-    <string name="types_filter_hide_all">Hide all</string>
+    <string name="types_filter_show_all">להציג הכול</string>
+    <string name="types_filter_hide_all">להסתיר הכול</string>
     <string name="chart_filter_type_hint">Statistics type</string>
-    <string name="chart_filter_categories_empty">No tags added</string>
+    <string name="chart_filter_categories_empty">לא נוספו תגיות</string>
 
-    <string name="duration_dialog_save">Save</string>
-    <string name="duration_dialog_disable">Disable</string>
+    <string name="duration_dialog_save">שמירה</string>
+    <string name="duration_dialog_disable">השבתה</string>
 
     <string name="color_selection_base_color_hint">Select base color</string>
     <string name="color_selection_adjust_color_hint">Adjust color</string>
     <string name="color_selection_final_color_hint">Final color</string>
 
-    <string name="csv_export_settings_range">Range</string>
-    <string name="csv_export_settings_all">All</string>
+    <string name="csv_export_settings_range">טווח</string>
+    <string name="csv_export_settings_all">הכול</string>
     <string name="csv_export_settings_hint">Select time range or export all records</string>
 
     <string name="schedule_exact_alarms">System setting should be enabled for this app in order to schedule exact alarms</string>
     <string name="post_notifications">System setting should be enabled for this app in order to show notifications</string>
-    <string name="schedule_exact_alarms_open_settings">Open</string>
+    <string name="schedule_exact_alarms_open_settings">פתיחה</string>
 
-    <string name="default_types_selection_title">Select activities to add</string>
-    <string name="default_types_selection_hide">Don\'t show again</string>
+    <string name="default_types_selection_title">נא לבחור פעילויות להוספה</string>
+    <string name="default_types_selection_hide">לא להציג שוב</string>
 
     <string name="record_tag_selection_exclude_activities_title">Exclude activities</string>
     <string name="record_tag_selection_exclude_activities_hint">Tag selection dialog will not be shown for selected activities.</string>
@@ -206,8 +206,8 @@
     <!--  Records all  -->
     <string name="records_all_sort_order">Sort records</string>
     <string name="records_all_sort_time_started">Time started</string>
-    <string name="records_all_sort_duration">Duration</string>
-    <string name="records_all_search_comment">Search comment</string>
+    <string name="records_all_sort_duration">משך זמן</string>
+    <string name="records_all_search_comment">חיפוש הערה</string>
 
     <!--  Running records  -->
     <string name="running_records_types_empty">To start tracking, add activities by clicking on %s button or use default presets by clicking on %s button</string>
@@ -222,19 +222,19 @@
     <string name="running_records_repeat_already_tracking">Already tracking this activity</string>
 
     <!--  Settings  -->
-    <string name="settings_display_title">Display settings</string>
-    <string name="settings_additional_title">Additional settings</string>
-    <string name="settings_notification_title">Notification settings</string>
-    <string name="settings_backup_title">Backup settings</string>
-    <string name="settings_export_title">Export and import</string>
-    <string name="settings_sort_order">Sort activities</string>
-    <string name="settings_sort_order_category">Sort categories</string>
-    <string name="settings_sort_order_tag">Sort tags</string>
-    <string name="settings_sort_by_name">Name</string>
-    <string name="settings_sort_by_color">Color</string>
-    <string name="settings_sort_manually">Manually</string>
+    <string name="settings_display_title">הגדרות תצוגה</string>
+    <string name="settings_additional_title">הגדרות נוספות</string>
+    <string name="settings_notification_title">הגדרות התראה</string>
+    <string name="settings_backup_title">הגדרות גיבוי</string>
+    <string name="settings_export_title">ייצוא וייבוא</string>
+    <string name="settings_sort_order">מיון הפעילויות</string>
+    <string name="settings_sort_order_category">מיון הקטגוריות</string>
+    <string name="settings_sort_order_tag">מיון התגיות</string>
+    <string name="settings_sort_by_name">שם</string>
+    <string name="settings_sort_by_color">לפי צבע</string>
+    <string name="settings_sort_manually">באופן ידני</string>
     <string name="settings_sort_activity">@string/change_record_type_field</string>
-    <string name="settings_first_day_of_week">First day of week</string>
+    <string name="settings_first_day_of_week">היום הראשון בשבוע</string>
     <string name="settings_repeat_button_type">Repeat button</string>
     <string name="settings_repeat_last_record">Repeat last record</string>
     <string name="settings_repeat_one_before_last">Repeat record before last</string>
@@ -269,25 +269,25 @@
     <string name="settings_inactivity_reminder_recurrent">Recurrent</string>
     <string name="settings_activity_reminder">Show activity reminder</string>
     <string name="settings_activity_reminder_hint">Show notification after specified time if timers are running.</string>
-    <string name="settings_do_not_disturb">Do no not disturb</string>
-    <string name="settings_notifications_system_settings">System settings</string>
+    <string name="settings_do_not_disturb">נא לא להפריע</string>
+    <string name="settings_notifications_system_settings">הגדרות המערכת</string>
     <string name="settings_notifications_system_settings_hint">Sound, vibration, flash and other</string>
     <string name="settings_ignore_short_records">Ignore short records</string>
     <string name="settings_ignore_short_records_hint">Do not track activities that are shorter than the specified time.</string>
     <string name="settings_inactivity_reminder_disabled">Disabled</string>
-    <string name="settings_dark_mode">Dark mode</string>
-    <string name="settings_dark_mode_system">System</string>
-    <string name="settings_dark_mode_enabled">Enabled</string>
-    <string name="settings_language">Language</string>
-    <string name="settings_use_military_time">Use 24-hour format</string>
-    <string name="settings_use_monthday_time">Use Month/Day date format</string>
+    <string name="settings_dark_mode">מצב כהה</string>
+    <string name="settings_dark_mode_system">מערכת</string>
+    <string name="settings_dark_mode_enabled">מופעל</string>
+    <string name="settings_language">שפה</string>
+    <string name="settings_use_military_time">שימוש בתבנית 24 שעות</string>
+    <string name="settings_use_monthday_time">שימוש בתבנית חודש/יום</string>
     <string name="settings_use_proportional_minutes">Use proportional minute format</string>
-    <string name="settings_show_seconds">Show seconds</string>
-    <string name="settings_keep_screen_on">Keep screen on</string>
+    <string name="settings_show_seconds">הצגת השניות</string>
+    <string name="settings_keep_screen_on">השארת המסך דולק</string>
     <string name="settings_change_card_size">Change activity card size</string>
-    <string name="settings_archive">Archive</string>
-    <string name="settings_data_edit">Data edit</string>
-    <string name="settings_edit_categories">Edit categories and tags</string>
+    <string name="settings_archive">ארכיון</string>
+    <string name="settings_data_edit">עריכת נתונים</string>
+    <string name="settings_edit_categories">עריכת הקטגוריות והתגיות</string>
     <string name="settings_edit_categories_hint">Assign categories to activities and tags to records.</string>
     <string name="settings_show_record_tag_selection">Show record tag selection</string>
     <string name="settings_show_record_tag_selection_hint">When starting a timer, if activity has any record tags - a selection dialog will be shown.</string>
@@ -296,10 +296,10 @@
     <string name="settings_rate_description">Rate the app and leave a review.</string>
     <string name="settings_feedback">Feedback</string>
     <string name="settings_feedback_description">Have a suggestion? Found a bug? Want to talk? Write us!</string>
-    <string name="settings_version">Version</string>
+    <string name="settings_version">גרסה</string>
     <string name="settings_email_chooser_title">Send with…</string>
-    <string name="settings_translators">Translators</string>
-    <string name="settings_contributors">Other contributors</string>
+    <string name="settings_translators">מתרגמים</string>
+    <string name="settings_contributors">תורמים אחרים</string>
     <string name="settings_automated_tracking">Automated tracking</string>
     <string name="settings_automated_tracking_text"><![CDATA[
 Automatic tracking is possible through integration with third-party applications that allow to automate actions based on certain events. These applications, when a certain event occurs, can send a message to the app to start or stop the activity timer.<br/>
@@ -339,18 +339,18 @@ If <b>\"%s\"</b> setting is enabled, app will send events on activity started or
 <b>Extra</b> - \"%s\".<br/>
     ]]></string>
 
-    <string name="settings_save_backup">Save backup</string>
+    <string name="settings_save_backup">שמירת גיבוי</string>
     <string name="settings_save_description">Before saving, make sure that you have the latest version of the app installed to avoid conflicts.</string>
-    <string name="settings_automatic_backup">Enable automatic backup</string>
-    <string name="settings_automatic_export">Enable automatic spreadsheet export</string>
+    <string name="settings_automatic_backup">הפעלת גיבוי אוטומטי</string>
+    <string name="settings_automatic_export">הפעלת ייצוא גיליונות אוטומטי</string>
     <string name="settings_automatic_description">File will be saved in the selected location overwriting previously saved file every day at midnight.</string>
-    <string name="settings_automatic_last_save">Last save:</string>
-    <string name="settings_restore_backup">Restore backup</string>
-    <string name="settings_restore_description">Current data will be lost.</string>
-    <string name="settings_dialog_message">Restore backup?</string>
-    <string name="settings_export_csv">Spreadsheet export</string>
+    <string name="settings_automatic_last_save">השמירה האחרונה:</string>
+    <string name="settings_restore_backup">שחזור מגיבוי</string>
+    <string name="settings_restore_description">הנתונים הנוכחיים יימחקו.</string>
+    <string name="settings_dialog_message">לשחזר מהגיבוי?</string>
+    <string name="settings_export_csv">ייצוא גיליון</string>
     <string name="settings_export_csv_description">Export activity records as a csv file to view in a preferred spreadsheet application.</string>
-    <string name="settings_import_csv">Spreadsheet import</string>
+    <string name="settings_import_csv">ייבוא מגיליון</string>
     <string name="settings_import_csv_description">Import activity records from a csv file. Current data will not be lost.</string>
     <string name="settings_import_csv_help"><![CDATA[
 The csv file must contain these columns separated by commas:<br/>
@@ -364,24 +364,24 @@ Example:<br/>
 <br/>
 \"Reading\",2023-05-30 14:45:21,2023-05-30 15:45:21,\"Comment, comment\"
     ]]></string>
-    <string name="settings_export_ics">ICS export</string>
+    <string name="settings_export_ics">ייצוא כקובץ ICS</string>
     <string name="settings_export_warning">This file cannot be used as a backup.</string>
-    <string name="settings_file_open_error">Error opening file</string>
-    <string name="settings_file_create_error">Error creating file</string>
+    <string name="settings_file_open_error">שגיאה בפתיחת הקובץ</string>
+    <string name="settings_file_create_error">שגיאה ביצירת הקובץ</string>
 
-    <string name="message_backup_saved">Backup saved</string>
-    <string name="message_backup_restored">Backup restored</string>
-    <string name="message_save_error">Error saving backup</string>
-    <string name="message_restore_error">Error restoring backup</string>
-    <string name="message_app_not_found">Application not found</string>
-    <string name="message_export_complete">Export completed</string>
-    <string name="message_export_error">Export error</string>
-    <string name="message_import_complete">Import completed</string>
+    <string name="message_backup_saved">הגיבוי נשמר</string>
+    <string name="message_backup_restored">בוצע שחזור מהגיבוי</string>
+    <string name="message_save_error">שגיאה בשמירת הגיבוי</string>
+    <string name="message_restore_error">שגיאה בשחזור מהגיבוי</string>
+    <string name="message_app_not_found">היישום לא נמצא</string>
+    <string name="message_export_complete">הייצוא הסתיים</string>
+    <string name="message_export_error">שגיאה בייצוא</string>
+    <string name="message_import_complete">הייבוא הסתיים</string>
     <string name="message_import_complete_hint">Records added: %s</string>
-    <string name="message_import_error">Import error</string>
+    <string name="message_import_error">שגיאה בייבוא</string>
     <string name="message_automatic_backup_error">There was an error with automatic backup.</string>
     <string name="message_automatic_export_error">There was an error with automatic export.</string>
-    <string name="message_automatic_error_hint">Try to select different location</string>
+    <string name="message_automatic_error_hint">נא לנסות לחפש מיקום אחר</string>
 
     <!--  Statistics detail  -->
     <string name="statistics_detail_chart_hourly">hourly</string>
@@ -440,25 +440,25 @@ Example:<br/>
     <string name="widget_load_error">Not found</string>
 
     <!--  Notification  -->
-    <string name="notification_inactivity_title">Inactivity reminder</string>
+    <string name="notification_inactivity_title">תזכורת חוסר פעילות</string>
     <string name="notification_inactivity_text">Don\'t forget to track your time</string>
     <string name="notification_activity_title">Activity reminder</string>
     <string name="notification_activity_text">Are you still doing: %s?</string>
-    <string name="notification_goal_time_description">goal reached</string>
+    <string name="notification_goal_time_description">היעד הושג</string>
     <string name="notification_time_started">Started at %s</string>
-    <string name="notification_record_type_stop">Stop</string>
+    <string name="notification_record_type_stop">עצירה</string>
     <string name="notification_pomodoro_subtitle">Starting: %s (%s)</string>
 
     <!--  Archive  -->
     <string name="something_was_archived_hint">To remove completely - open archive</string>
     <string name="archive_hint">Click on card to view details</string>
-    <string name="archive_dialog_delete">Delete</string>
-    <string name="archive_dialog_restore">Restore</string>
-    <string name="archive_empty">Archive is empty</string>
-    <string name="archive_activity_restored">Activity restored</string>
-    <string name="archive_tag_restored">Tag restored</string>
-    <string name="archive_activity_deleted">Activity deleted</string>
-    <string name="archive_tag_deleted">Tag deleted</string>
+    <string name="archive_dialog_delete">מחיקה</string>
+    <string name="archive_dialog_restore">שחזור</string>
+    <string name="archive_empty">הארכיון ריק</string>
+    <string name="archive_activity_restored">הפעילות שוחזרה</string>
+    <string name="archive_tag_restored">התגית שוחזרה</string>
+    <string name="archive_activity_deleted">הפעילות נמחקה</string>
+    <string name="archive_tag_deleted">התגית נמחקה</string>
     <string name="archive_activity_deletion_message">All records of this activity will also be deleted</string>
     <string name="archive_tag_deletion_message">All records tagged with this tag will become untagged</string>
     <string name="archive_deletion_alert">Are you sure? This action cannot be undone.</string>
@@ -468,13 +468,13 @@ Example:<br/>
     <!--  Data edit  -->
     <string name="data_edit_hint">These changes cannot be undone. Make sure to create a backup file before doing anything.</string>
     <string name="data_edit_select_records">Select records</string>
-    <string name="data_edit_change_activity">Change activity</string>
+    <string name="data_edit_change_activity">שינוי פעילות</string>
     <string name="data_edit_change_activity_hint">Tags of current activity will be removed.</string>
     <string name="data_edit_change_comment">Change comment</string>
-    <string name="data_edit_change_add_tag">Add tags</string>
-    <string name="data_edit_change_remove_tag">Remove tags</string>
-    <string name="data_edit_button_change">Change</string>
-    <string name="data_edit_success_message">Data changed</string>
+    <string name="data_edit_change_add_tag">הוספת תגיות</string>
+    <string name="data_edit_change_remove_tag">הסרת תגיות</string>
+    <string name="data_edit_button_change">שינוי</string>
+    <string name="data_edit_success_message">הנתונים שונו</string>
 
     <!--  Records filter  -->
     <string name="records_filter_select_tags">בחירת תגיות</string>
@@ -483,7 +483,7 @@ Example:<br/>
     <string name="records_filter_no_comment">אין הערות</string>
     <string name="records_filter_any_comment">כל הערה</string>
     <string name="records_filter_select">בחירה</string>
-    <string name="records_filter_invert_selection">Invert selection</string>
+    <string name="records_filter_invert_selection">היפוך הבחירה</string>
 
     <!--  Pomodoro  -->
     <string name="pomodoro_state_focus">מיקוד</string>
@@ -503,20 +503,20 @@ Example:<br/>
     <string name="emojiGroupFlags">דגלים</string>
 
     <!--  Icon image category  -->
-    <string name="imageGroupMaps">Maps</string>
-    <string name="imageGroupPlaces">Places</string>
+    <string name="imageGroupMaps">מפות</string>
+    <string name="imageGroupPlaces">מקומות</string>
     <string name="imageGroupSocial">Social</string>
     <string name="imageGroupAction">Action</string>
-    <string name="imageGroupHardware">Hardware</string>
+    <string name="imageGroupHardware">חומרת מחשב</string>
     <string name="imageGroupAlert">Alert</string>
-    <string name="imageGroupAv">Audio video</string>
-    <string name="imageGroupCommunication">Communication</string>
+    <string name="imageGroupAv">שמע ווידאו</string>
+    <string name="imageGroupCommunication">תקשורת</string>
     <string name="imageGroupContent">Content</string>
     <string name="imageGroupDevice">Device</string>
     <string name="imageGroupEditor">Editor</string>
-    <string name="imageGroupFile">File</string>
-    <string name="imageGroupImage">Image</string>
-    <string name="imageGroupNavigation">Navigation</string>
+    <string name="imageGroupFile">קובץ</string>
+    <string name="imageGroupImage">תמונה</string>
+    <string name="imageGroupNavigation">ניווט</string>
     <string name="imageGroupNotification">Notification</string>
     <string name="imageGroupToggle">Toggle</string>
 
@@ -526,8 +526,8 @@ Example:<br/>
     <string name="shortcut_navigation_settings">Settings</string>
 
     <!--  Wear  -->
-    <string name="wear_loading_error">Check your connection and try again</string>
-    <string name="wear_open_on_phone">Open on phone</string>
+    <string name="wear_loading_error">נא לבדוק את החיבור ולנסות שוב</string>
+    <string name="wear_open_on_phone">פתיחה בטלפון</string>
     <string name="wear_settings_title">Settings</string>
     <string name="wear_settings_title_show_compact_list">Show compact list</string>
 
